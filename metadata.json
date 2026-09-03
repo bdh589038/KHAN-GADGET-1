@@ -1,0 +1,6 @@
+{
+  "name": "KHAN GADGET - Premium E-Commerce",
+  "description": "High-converting, responsive single-page e-commerce store and admin suite styled after Khan Gadget with persistent local storage, product quick-modal, fast checkout, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
